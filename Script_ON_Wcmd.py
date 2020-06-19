@@ -8,7 +8,7 @@
 # =============================================================================
 """
 try:
-    import   _# Inserire il nome della libreria da installare
+    import   _# Insert here library name to import
 except ImportError:
     from pip._internal import main as pip
     pip(['install', '--user', ' Insert here library name to install '])
