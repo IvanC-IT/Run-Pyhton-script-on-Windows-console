@@ -2,9 +2,9 @@
   This code runs the script directly from the Windows console   by independently importing the missing libraries.
 
 
-# Prerequisites
+## Prerequisites
   Python3;
 
-# Contributing
+### Contributing
  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
